@@ -1,7 +1,7 @@
 {
-  "web": 1794343191,
-  "apk": 3,
+  "web": 1794345529,
+  "apk": 4,
   "apkUrl": "https://borellaaaa.github.io/pingo-app/Pingo.apk",
-  "notas": "Atualização de teste: agora o Perfil mostra a versão do app, e o Pingo avisa quando o app acabou de atualizar.",
-  "notasApk": "Saiu uma versão nova do app para Android."
+  "notas": "Chegaram as notificações! Ligue em Perfil → Notificações e saiba na hora quando alguém mexer no caixa, na agenda ou na equipe.",
+  "notasApk": "Pingo 1.2: widget na tela inicial (dias para o próximo campeonato e caixa) e notificações da equipe."
 }
